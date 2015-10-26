@@ -1,0 +1,12 @@
+.li {
+  padding: 10px 7px;
+}
+
+.wrap {
+  composes: fadein from "./shared/Animations.css";
+}
+
+.button {
+  composes: basic from "./Buttons.css";
+  background-color: #E26A6A;
+}

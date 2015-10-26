@@ -1,0 +1,14 @@
+/* Just to show how to use css_modules composes */
+.basic {
+  float: right;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 100%;
+  padding: .5em 1em;
+  color: rgba(0,0,0,.8);
+  border: 1px solid #999;
+  border: 0 rgba(0,0,0,0);
+  background-color: #DADFE1;
+  text-decoration: none;
+  border-radius: 2px;
+}

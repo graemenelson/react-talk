@@ -1,0 +1,35 @@
+{
+  "name": "es6-sandbox",
+  "version": "1.0.0",
+  "description": "simple sandbox to try es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/analog-analytics/react-talk.git"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.17.0",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "file-loader": "^0.8.4",
+    "json-loader": "^0.5.3",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.1",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "events": "^1.0.2",
+    "jsonp-promise": "^0.1.2",
+    "mobservable": "^0.6.6",
+    "mobservable-react": "^0.1.5",
+    "react": "^0.13.3",
+    "rx": "^3.1.2"
+  }
+}
